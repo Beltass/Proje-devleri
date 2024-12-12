@@ -1,0 +1,26 @@
+.navbar-bg{
+    background-color: #2c3d50;
+}
+.herosection-bg{
+    background-color:#2bbb9b ;
+
+}
+.profile-heading{
+    font-size: 60px;
+}
+.portfolio-heading{
+    font-size: 36px;
+    color: #2c3e50;
+}
+.about-container{
+    background-color:#2bbb9b 
+}
+.about-heading{
+    font-size: 36px;
+}
+.footer-container{
+    background-color: #2c3d50; 
+}
+a.start-bs{
+    background-color:#2bbb9b  ;
+}
